@@ -2,11 +2,12 @@
 
 * [👋 Bienvenue](README.md)
 
-## Questions fréquentes <a href="#kb" id="kb"></a>
+## Support <a href="#kb" id="kb"></a>
 
-* [📊 Moyennes générales](kb/averages.md)
-* [✅ Sécurité des données personnelles](kb/privacy.md)
-* [🏫 Établissement manquant](kb/etablissement-manquant.md)
+* [⁉️ Questions fréquentes](kb/issue/README.md)
+  * [📊 Moyennes générales](kb/issue/averages.md)
+  * [✅ Sécurité des données personnelles](kb/issue/privacy.md)
+  * [🏫 Établissement manquant](kb/issue/etablissement-manquant.md)
 
 ## Développeurs <a href="#develop" id="develop"></a>
 
