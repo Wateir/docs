@@ -10,11 +10,11 @@
 
 ## Coté developpeur
 
-* [Commencer avec Papillions](cote-developpeur/commencer-avec-papillions/README.md)
-  * [Tester avec Expo Go](cote-developpeur/commencer-avec-papillions/tester-avec-expo-go.md)
-  * [Préparer l'environnement de développement](cote-developpeur/commencer-avec-papillions/preparer-lenvironnement-de-developpement.md)
-  * [Structure](cote-developpeur/commencer-avec-papillions/structure.md)
-* [Compiler avec Papillions](cote-developpeur/compiler-avec-papillions/README.md)
-  * [Pour iOS](cote-developpeur/compiler-avec-papillions/pour-ios.md)
-  * [Pour Android](cote-developpeur/compiler-avec-papillions/pour-android.md)
-  * [Avec EAS](cote-developpeur/compiler-avec-papillions/avec-eas.md)
+* [Commencer avec Papillon](cote-developpeur/commencer-avec-papillon/README.md)
+  * [Tester avec Expo Go](cote-developpeur/commencer-avec-papillon/tester-avec-expo-go.md)
+  * [Préparer l'environnement de développement](cote-developpeur/commencer-avec-papillon/preparer-lenvironnement-de-developpement.md)
+  * [Structure](cote-developpeur/commencer-avec-papillon/structure.md)
+* [Compiler avec Papillon](cote-developpeur/compiler-avec-papillon/README.md)
+  * [Pour iOS](cote-developpeur/compiler-avec-papillon/pour-ios.md)
+  * [Pour Android](cote-developpeur/compiler-avec-papillon/pour-android.md)
+  * [Avec EAS](cote-developpeur/compiler-avec-papillon/avec-eas.md)
