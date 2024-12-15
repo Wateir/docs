@@ -3,5 +3,5 @@
 
 
 {% hint style="danger" %}
-Pas d'ia
+L'IA n'est pas autorisée sous peine de sanction.
 {% endhint %}
