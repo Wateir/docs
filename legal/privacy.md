@@ -6,8 +6,9 @@ description: >-
 
 # 📖 Politique de confidentialité
 
-{% hint style="info" %}
-Ce service peut être amené à collecter certaines données personnelles de ses utilisateurs.
+{% hint style="success" %}
+Ce service peut être amené à collecter certaines données personnelles de ses utilisateurs pour le fonctionnement du service.\
+**Lors de l'utilisation de l'application, aucune donnée n'est conservée ni ne transite sur des serveurs externes au terminal sur lequel l'application est installée.**
 {% endhint %}
 
 ## 1. - Services concernés <a href="#id-1-services-concernes" id="id-1-services-concernes"></a>
@@ -99,10 +100,6 @@ Le client mobile **Papillon** est un logiciel **open source**, **gratuit**, **li
 ### 3.1. - Sécurité des données
 
 La sécurité et la transparence dans le traitement des données des utilisateurs sont d'une importance primordiale pour nous. Nous nous engageons fermement à adopter des mesures de sécurité robustes pour protéger les données contre les accès non autorisés, les modifications, les divulgations ou les destructions inappropriées. De plus, nous nous assurons de communiquer de manière transparente sur les pratiques de collecte, d'utilisation et de partage des données, permettant ainsi à nos utilisateurs de comprendre clairement comment leurs informations sont gérées.
-
-{% hint style="success" %}
-Vous pouvez en savoir plus avec les informations indiquées sur notre service Trust & Safety : [**https://safety.getpapillon.xyz/**](https://safety.getpapillon.xyz/)
-{% endhint %}
 
 ### 3.2. - Récupération des données et services open-source
 
