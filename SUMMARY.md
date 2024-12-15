@@ -8,7 +8,7 @@
 * [✅ Sécurité des données personnelles](kb/privacy.md)
 * [🏫 Établissement manquant](kb/etablissement-manquant.md)
 
-## Coté developpeur
+## Côté développeur
 
 * [Commencer avec Papillon](cote-developpeur/commencer-avec-papillon/README.md)
   * [Tester avec Expo Go](cote-developpeur/commencer-avec-papillon/tester-avec-expo-go.md)
