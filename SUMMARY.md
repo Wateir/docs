@@ -18,3 +18,8 @@
   * [Pour iOS](develop/build/pour-ios.md)
   * [Pour Android](develop/build/pour-android.md)
   * [Avec EAS](develop/build/avec-eas.md)
+
+## Légal
+
+* [📖 Politique de confidentialité](legal/privacy.md)
+* [☑️ Conditions générales d'utilisation](legal/terms.md)
