@@ -36,9 +36,6 @@ Papillon est ouvert à tous les développeurs, peu importe leur niveau. C'est un
 [privacy.md](legal/privacy.md)
 {% endcontent-ref %}
 
-
-
-
-
-
-
+{% content-ref url="legal/terms.md" %}
+[terms.md](legal/terms.md)
+{% endcontent-ref %}
