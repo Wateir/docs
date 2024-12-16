@@ -26,5 +26,5 @@ Toute pull request sera immédiatement refusée si elle ne respecte pas l'ensemb
 {% hint style="info" %}
 Toute code doit respecter les règles de EsLint.
 
-Si vous n'avez pas EsLint vous pouvez vous en apprendre plus ici : \[[https://eslint.org/docs/latest/use/getting-started](https://eslint.org/docs/latest/use/getting-started)]\(EsLint)
+Si vous n'avez pas EsLint vous pouvez vous en apprendre plus ici : [EsLint](https://eslint.org/docs/latest/use/getting-started)
 {% endhint %}
