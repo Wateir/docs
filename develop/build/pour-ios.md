@@ -1,7 +1,7 @@
 # Pour iOS
 
 {% hint style="danger" %}
-Pour compiler Papillon pour iOS, vous devez posséder un Mac.
+Pour compiler Papillon pour iOS, vous devez être sous MacOS et posséder XCode.
 {% endhint %}
 
 1. Dans la racine du projet, exécuter `pnpm prebuild`
