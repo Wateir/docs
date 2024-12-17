@@ -96,6 +96,11 @@ La suppression de l'application ou la déconnexion entraîne immédiatement la s
 ### 2.5 - RGPD
 Conformément au Règlement Général sur la Protection des Données, et notamment la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles, vous disposez d'un droit de rectification, de suppression et de consultation concernant vos données personnelles collectées lors de votre visite sur le site https://papillon.bzh. Pour toute demande, adressez un courriel au responsable de traitement via l'adresse : [contact@vincelinise.com](mailto:contact@vincelinise.com).
 
+### 2.6 - Comparaison avec l'application PRONOTE officielle
+Voici un schéma comparant le fonctionnement de Papillon et de l'application PRONOTE officielle, on voit ici que son fonctionnement est proche de celui de la version officielle ; en effet, Papillon ne sert que d'intermédiaire entre l'utilisateur et les serveurs officiels de PRONOTE, ne faisant que transmettre des données entre les deux, sans intermédiaire.
+
+![schema comparatif](comparaison_pronote.png)
+
 
 ## 3. - Client mobile Papillon <a href="#id-3-client-mobile-papillon" id="id-3-client-mobile-papillon"></a>
 
