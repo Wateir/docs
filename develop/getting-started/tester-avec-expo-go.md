@@ -1,6 +1,7 @@
 # Tester avec Expo Go
 
 {% hint style="warning" %}
+**Expo 52 n'est pas supporté : il est pour le moment impossible d'utiliser la version des stores.** 
 Les fonctionnalités natives ne sont pas supportées sur Expo Go et vos appareils doivent être sur le même réseau.
 {% endhint %}
 
