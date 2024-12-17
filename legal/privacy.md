@@ -53,7 +53,7 @@ Ces données sont renvoyées par les services de vie scolaire correspondants. Ce
 {% endtab %}
 
 {% tab title="Sur le site web" %}
-Nous tenons à informer nos utilisateurs que le site web de présentation [https://getpapillon.xyz](https://getpapillon.xyz) respecte pleinement la vie privée de chacun. Aucune donnée personnelle ou information concernant l'utilisateur et son appareil n'est collectée lors de la visite du site. De plus, nous ne conservons aucun cookie, il n'y a pas de logs de visite enregistrés et nous n'utilisons aucun outil d'analyse pour suivre le comportement des utilisateurs. Notre engagement envers la protection de votre vie privée est total et transparent.
+Nous tenons à informer nos utilisateurs que le site web de présentation [https://getpapillon.xyz](https://getpapillon.xyz) respecte pleinement la vie privée de chacun. Seule votre adresse ip est enregistrée lors de votre visite sur ce site, nous n'utilisons aucun outil d'analyse pour suivre le comportement des visiteurs. Notre engagement envers la protection de votre vie privée est total et transparent.
 {% endtab %}
 
 {% tab title="Dans la documentation" %}
@@ -93,9 +93,13 @@ Aucune personne ou logiciel automatisé n’utilise, ne traite ou ne collecte vo
 
 La suppression de l'application ou la déconnexion entraîne immédiatement la suppression de l'intégralité des données stockées sur votre appareil. Nous ne conservons aucune copie de vos données après la suppression de l'application, assurant ainsi une maîtrise totale de vos informations personnelles.
 
+### 2.5 - RGPD
+Conformément au Règlement Général sur la Protection des Données, et notamment la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles, vous disposez d'un droit de rectification, de suppression et de consultation concernant vos données personnelles collectées lors de votre visite sur le site https://papillon.bzh. Pour toute demande, adressez un courriel au responsable de traitement via l'adresse : [contact@vincelinise.com](mailto:contact@vincelinise.com).
+
+
 ## 3. - Client mobile Papillon <a href="#id-3-client-mobile-papillon" id="id-3-client-mobile-papillon"></a>
 
-Le client mobile **Papillon** est un logiciel **open source**, **gratuit**, **libre** et à but **non lucratif**. Conçu avec l'objectif principal de fournir un accès simplifié aux données essentielles des services scolaires, il agit comme une interface entre l'utilisateur et les nombreuses données transmises par des librairies tierces. L'application s'engage à maintenir une totale transparence sur ses méthodes de fonctionnement et sur l'utilisation des données. En se basant sur des principes de développement collaboratifs, Papillon invite la communauté à participer à son évolution en contribuant au code, en proposant des améliorations ou en signalant des bugs, pour s'assurer que le logiciel reste à jour et réponde au mieux aux besoins de ses utilisateurs.
+Le client mobile **Papillon** est un logiciel **open source**, **gratuit**, **libre** et à but **non lucratif**. Conçu avec l'objectif principal de fournir un accès simplifié aux données essentielles des services scolaires, il agit comme une interface entre l'utilisateur et les nombreuses données transmises par des librairies tierces. Les mainteneurs de l'application Papillon s'engagent à maintenir une totale transparence sur ses méthodes de fonctionnement et sur l'utilisation des données. En se basant sur des principes de développement collaboratifs, Papillon invite la communauté à participer à son évolution en contribuant au code, en proposant des améliorations ou en signalant des bugs, pour s'assurer que le logiciel reste à jour et réponde au mieux aux besoins de ses utilisateurs.
 
 ### 3.1. - Sécurité des données
 
