@@ -19,7 +19,7 @@ Papillon est un logiciel open-source distribué sous licence GPL-v3.0.
 * Papillon ou l'une de ses fonctionnalités peut être retirée de la distribution à tout moment sans préavis par le gestionnaire du service.
 * Papillon n'a aucun lien avec aucune entité scolaire ou éducative.
 
-Vous pouvez consulter la licence complète [sur notre dépôt GitHub](https://github.com/PapillonApp/Papillon/blob/stable/LICENSE).
+Vous pouvez consulter la licence complète [sur notre dépôt GitHub](https://github.com/PapillonApp/Papillon/blob/main/LICENSE).
 
 Si vous n'acceptez pas ou plus ces conditions, vous pouvez ne pas utiliser et/ou désinstaller Papillon. Aucune donnée ne sera conservée sur votre appareil.
 
