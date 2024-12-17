@@ -48,17 +48,17 @@ Ces données d'identification ne sont pas stockées en dehors de votre appareil 
     > Emploi du temps, Travail à faire, Notes, Compétences, Actualités de l'établissement, Conversations et Événements de vie scolaire
 
 {% hint style="info" %}
-Ces données sont renvoyées par les services de vie scolaire correspondants. Ces données ne quitteront jamais votre appareil et seuls vous y avez accès conformément aux mention indiquées sur [https://safety.getpapillon.xyz/usage/data](https://safety.getpapillon.xyz/usage/data)
+Ces données sont renvoyées par les services de vie scolaire connectés à votre application Papillon. Ces données ne quitteront jamais votre appareil et vous seul pouvez y accéder, conformément aux mentions indiquées sur [https://safety.getpapillon.xyz/usage/data](https://safety.getpapillon.xyz/usage/data)
 {% endhint %}
 {% endtab %}
 
 {% tab title="Sur le site web" %}
-Nous tenons à informer nos utilisateurs que le site web de présentation [https://getpapillon.xyz](https://getpapillon.xyz) respecte pleinement la vie privée de chacun. Aucune donnée personnelle ou information concernant l'utilisateur et son appareil n'est collectée lors de la visite du site. De plus, nous ne conservons aucun cookie, il n'y a pas de logs de visite enregistrés et nous n'utilisons aucun outil d'analyse pour suivre le comportement des utilisateurs. Notre engagement envers la protection de votre vie privée est total et transparent.
+Nous tenons à informer nos utilisateurs que le site web de présentation [https://getpapillon.xyz](https://getpapillon.xyz) respecte pleinement la vie privée de chacun. Seule votre adresse ip est enregistrée lors de votre visite sur ce site, nous n'utilisons aucun outil d'analyse pour suivre le comportement des visiteurs. Notre engagement envers la protection de votre vie privée est total et transparent.
 {% endtab %}
 
 {% tab title="Dans la documentation" %}
 {% hint style="info" %}
-L'ensemble des documentations sont hébergées sur le service en ligne GitBook.com. Sa [**politique de confidentialité**](https://policies.gitbook.com/privacy-and-security/statement/cookies) s'applique.
+L'ensemble des documentations sont hébergées sur le service en ligne GitBook.com. Sa [**politique de confidentialité**](https://policies.gitbook.com/privacy-and-security/statement/cookies) s'applique donc sur les services concernés.
 {% endhint %}
 
 Les pages de documentation ([docs.getpapillon.xyz](https://docs.getpapillon.xyz), [brand.getpapillon.xyz](https://brand.getpapillon.xyz), etc.) ne collectent pas activement des données personnelles. Toutefois, des données anonymes pourraient être utilisées pour mesurer l'engagement et l'utilisation des ressources fournies, afin d'améliorer continuellement le contenu. Cela inclut:
@@ -93,9 +93,18 @@ Aucune personne ou logiciel automatisé n’utilise, ne traite ou ne collecte vo
 
 La suppression de l'application ou la déconnexion entraîne immédiatement la suppression de l'intégralité des données stockées sur votre appareil. Nous ne conservons aucune copie de vos données après la suppression de l'application, assurant ainsi une maîtrise totale de vos informations personnelles.
 
+### 2.5 - RGPD
+Conformément au Règlement Général sur la Protection des Données, et notamment la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles, vous disposez d'un droit de rectification, de suppression et de consultation concernant vos données personnelles collectées lors de votre visite sur le site https://papillon.bzh. Pour toute demande, adressez un courriel au responsable de traitement via l'adresse : [contact@vincelinise.com](mailto:contact@vincelinise.com).
+
+### 2.6 - Comparaison avec l'application PRONOTE officielle
+Voici un schéma comparant le fonctionnement de Papillon et de l'application PRONOTE officielle, on voit ici que son fonctionnement est proche de celui de la version officielle ; en effet, Papillon ne sert que d'intermédiaire entre l'utilisateur et les serveurs officiels de PRONOTE, ne faisant que transmettre des données entre les deux, sans intermédiaire.
+
+![schema comparatif](comparaison_pronote.png)
+
+
 ## 3. - Client mobile Papillon <a href="#id-3-client-mobile-papillon" id="id-3-client-mobile-papillon"></a>
 
-Le client mobile **Papillon** est un logiciel **open source**, **gratuit**, **libre** et à but **non lucratif**. Conçu avec l'objectif principal de fournir un accès simplifié aux données essentielles des services scolaires, il agit comme une interface entre l'utilisateur et les nombreuses données transmises par des librairies tierces. L'application s'engage à maintenir une totale transparence sur ses méthodes de fonctionnement et sur l'utilisation des données. En se basant sur des principes de développement collaboratifs, Papillon invite la communauté à participer à son évolution en contribuant au code, en proposant des améliorations ou en signalant des bugs, pour s'assurer que le logiciel reste à jour et réponde au mieux aux besoins de ses utilisateurs.
+Le client mobile **Papillon** est un logiciel **open source**, **gratuit**, **libre** et à but **non lucratif**. Conçu avec l'objectif principal de fournir un accès simplifié aux données essentielles des services scolaires, il agit comme une interface entre l'utilisateur et les nombreuses données transmises par des librairies tierces. Les mainteneurs de l'application Papillon s'engagent à maintenir une totale transparence sur ses méthodes de fonctionnement et sur l'utilisation des données. En se basant sur des principes de développement collaboratifs, Papillon invite la communauté à participer à son évolution en contribuant au code, en proposant des améliorations ou en signalant des bugs, pour s'assurer que le logiciel reste à jour et réponde au mieux aux besoins de ses utilisateurs.
 
 ### 3.1. - Sécurité des données
 
