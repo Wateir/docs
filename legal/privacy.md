@@ -48,7 +48,7 @@ Ces données d'identification ne sont pas stockées en dehors de votre appareil 
     > Emploi du temps, Travail à faire, Notes, Compétences, Actualités de l'établissement, Conversations et Événements de vie scolaire
 
 {% hint style="info" %}
-Ces données sont renvoyées par les services de vie scolaire correspondants. Ces données ne quitteront jamais votre appareil et seuls vous y avez accès conformément aux mention indiquées sur [https://safety.getpapillon.xyz/usage/data](https://safety.getpapillon.xyz/usage/data)
+Ces données sont renvoyées par les services de vie scolaire connectés à votre application Papillon. Ces données ne quitteront jamais votre appareil et vous seul pouvez y accéder, conformément aux mentions indiquées sur [https://safety.getpapillon.xyz/usage/data](https://safety.getpapillon.xyz/usage/data)
 {% endhint %}
 {% endtab %}
 
@@ -58,7 +58,7 @@ Nous tenons à informer nos utilisateurs que le site web de présentation [https
 
 {% tab title="Dans la documentation" %}
 {% hint style="info" %}
-L'ensemble des documentations sont hébergées sur le service en ligne GitBook.com. Sa [**politique de confidentialité**](https://policies.gitbook.com/privacy-and-security/statement/cookies) s'applique.
+L'ensemble des documentations sont hébergées sur le service en ligne GitBook.com. Sa [**politique de confidentialité**](https://policies.gitbook.com/privacy-and-security/statement/cookies) s'applique donc sur les services concernés.
 {% endhint %}
 
 Les pages de documentation ([docs.getpapillon.xyz](https://docs.getpapillon.xyz), [brand.getpapillon.xyz](https://brand.getpapillon.xyz), etc.) ne collectent pas activement des données personnelles. Toutefois, des données anonymes pourraient être utilisées pour mesurer l'engagement et l'utilisation des ressources fournies, afin d'améliorer continuellement le contenu. Cela inclut:
