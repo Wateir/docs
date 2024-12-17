@@ -1,7 +1,6 @@
 ---
 description: >-
-  Afin de pouvoir avoir un project qui fonctionne et qui puisse perdurai dans le
-  temps, merci de respecter ces quelques regles simple.
+  Afin de pouvoir avoir un projet qui fonctionne et qui puisse perdurer dans le temps, merci de respecter ces quelques règles simples.
 ---
 
 # Commencer avec Papillon
@@ -24,7 +23,7 @@ L'IA n'est pas autorisée sous peine de sanction.
 Toute pull request sera immédiatement refusée si elle ne respecte pas l'ensemble de ses règles.
 
 {% hint style="info" %}
-Toute code doit respecter les règles de EsLint.
+Tout code doit respecter les règles de EsLint.
 
 Si vous n'avez pas EsLint vous pouvez vous en apprendre plus ici : [EsLint](https://eslint.org/docs/latest/use/getting-started)
 {% endhint %}
