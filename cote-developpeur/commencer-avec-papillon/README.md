@@ -11,16 +11,18 @@ description: >-
 L'IA n'est pas autorisée sous peine de sanction.
 {% endhint %}
 
-1. \[ ] Vous avez testé de build le projet avec vos modifications et ce build a réussi
-2. &#x20;\[ ] Vous respectez les conventions de codage et de nommage du projet&#x20;
-3. \[ ] Vous utilisez la tabulation pour l'indentation afin de maintenir un code lisible&#x20;
-4. \[ ] Cette pull request n'est pas un duplicata d'une autre&#x20;
-5. \[ ] Cette pull request est prête à être revue (review) et fusionnée (merge)&#x20;
-6. \[ ] Il n'y a pas de TODO (aka des annotations pour du code manquant) dans vos modifications&#x20;
-7. \[ ] Il n'y a pas d'erreurs de langue dans votre code (grammaire, vocabulaire, conjugaison, orthographe) \[ ] Les détails des changements ont été décrits ci-dessous&#x20;
-8. \[ ] Cette pull-request n'est pas une "breaking-change" (des modifications qui vont entraîner la modification du fonctionnement de certaines fonctionnalités déjà existantes)
+Voici les règles si vous voulez faire une pull request :
 
-Toute pull request sera immédiatement refusée si elle ne respecte pas l'ensemble de ses règles.
+1. \[ ] Vous avez testé de build le projet avec vos modifications et ce build a réussi
+2. \[ ] Vous respectez les conventions de codage et de nommage du projet
+3. \[ ] Vous utilisez la tabulation pour l'indentation afin de maintenir un code lisible
+4. \[ ] Votre pull request n'est pas un duplicata d'une autre
+5. \[ ] Votre pull request est prête à être revue (review) et fusionnée (merge)
+6. \[ ] Il n'y a pas de TODO (aka des annotations pour du code manquant) dans vos modifications
+7. \[ ] Il n'y a pas d'erreurs de langue dans votre code (grammaire, vocabulaire, conjugaison, orthographe) \[ ] Les détails des changements ont été décrits ci-dessous
+8. \[ ] Votre pull request n'est pas une "breaking-change" (des modifications qui vont entraîner la modification du fonctionnement de certaines fonctionnalités déjà existantes)
+
+Toute pull request sera immédiatement refusée si elle ne respecte pas l'ensemble de ces règles.
 
 {% hint style="info" %}
 Tout code doit respecter les règles de EsLint.
