@@ -14,3 +14,6 @@ Voici des pages dédiées aux sujets les plus fréquents questionnés concernant
 [etablissement-manquant.md](etablissement-manquant.md)
 {% endcontent-ref %}
 
+{% content-ref url="missing-functionality.md" %}
+[missing-functionality.md](missing-functionality.md)
+{% endcontent-ref %}
