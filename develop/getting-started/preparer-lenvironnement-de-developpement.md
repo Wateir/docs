@@ -7,7 +7,7 @@ Pour commencer à développer Papillon vous avez besoin des outils suivants:
 * Git ([https://git-scm.com](https://git-scm.com/))
 * NodeJS ([https://nodejs.org/en](https://nodejs.org/en))
 * xCode, si vous comptez compiler pour iOS
-* Une fork de Papillon
+* Un fork de Papillon ([https://docs.github.com](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)))
 * Un IDE comme VSCode ([https://code.visualstudio.com](https://code.visualstudio.com))
 
 ### Installation du repo
