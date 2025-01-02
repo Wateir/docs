@@ -10,6 +10,10 @@ Les listes ne sont pas maintenues par Papillon et cela relève de l'établisseme
 Ce n'est pas parce que votre établissement n'apparaît pas qu'il est incompatible avec Papillon : **il peut quand même fonctionner.**
 {% endhint %}
 
+Pour palier a ce problème, Papillon a mis en place un système pour compléter cette liste.
+https://github.com/PapillonApp/datasets/tree/main/establishment
+Malgré ce côté restreint, vous pouvez demander à rajouter vos établissements.
+
 ### **Autres moyens de se connecter**
 
 #### **Avec un QR-Code sur Pronote**
