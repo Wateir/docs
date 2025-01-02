@@ -14,8 +14,9 @@ Ce n'est pas parce que votre établissement n'apparaît pas qu'il est  incompati
 ### **Autres moyens de se connecter**
 
 #### **Avec un QR-Code sur Pronote**
------
-Connecte-toi à Pronote via un ordinateur ou un autre appareil, et lie Papillon à l'aide de l'option QR code mobile, cela te permet de ne pas chercher ton établissement.
+
+Connecte-toi à Pronote via un ordinateur ou un autre appareil, et lie Papillon à l'aide de l'option QR code mobile, cela te permet de ne pas chercher ton établissement
+
 <div style="display: flex; justify-content: center; align-items: flex-start;">
     <div style="text-align: center; margin: 0 10px;">
         <img src="https://media.discordapp.net/attachments/1260194937803116656/1324481333153632266/IMG_0417.png?ex=67784edd&is=6776fd5d&hm=b9c1b80f36311bfc559e92b66e740aae3a1f18093de1e756fa74d1fbb7d54137&=&format=webp&quality=lossless" alt="Choisir QR Code" style="width: 150px; height: 300px;">
@@ -34,7 +35,7 @@ Connecte-toi à Pronote via un ordinateur ou un autre appareil, et lie Papillon 
         <p>Félicitations ! Vous êtes connecté(e).</p>
     </div>
 </div>
-#### **Avec un lien**
+#### Avec une URL
 -----
 
 Lorsque tu es sur la page de ton établissement via un navigateur web, tu peux copier le lien en barre d'adresse et te connecter via une URL à Papillon !
