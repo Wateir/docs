@@ -3,7 +3,7 @@
 ```
 ├── assets (dossier des ressources)
 ├── ios (dossier natif ios contenant les fichiers liés à xcode et les modules natifs)
-├── android
+├── android (dossier natif android contenant les fichiers liés à Android Studio et les modules natifs)
 └── src
     ├── addons
     ├── background
