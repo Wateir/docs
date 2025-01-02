@@ -2,13 +2,15 @@
 
 * [👋 Bienvenue](README.md)
 
-## Questions fréquentes <a href="#kb" id="kb"></a>
+## Support <a href="#kb" id="kb"></a>
 
-* [📊 Moyennes générales](kb/averages.md)
-* [✅ Sécurité des données personnelles](kb/privacy.md)
-* [🏫 Établissement manquant](kb/etablissement-manquant.md)
+* [⁉️ Questions fréquentes](kb/issue/README.md)
+  * [📊 Moyennes générales](kb/issue/averages.md)
+  * [✅ Sécurité des données personnelles](kb/issue/privacy.md)
+  * [🏫 Établissement manquant](kb/issue/etablissement-manquant.md)
 
-## Côté développeur
+## Développeurs <a href="#develop" id="develop"></a>
+
 * [🦋 Commencer avec Papillon](develop/getting-started/README.md)
   * [Tester avec Expo Go](develop/getting-started/tester-avec-expo-go.md)
   * [Préparer l'environnement de développement](develop/getting-started/preparer-lenvironnement-de-developpement.md)
@@ -17,6 +19,8 @@
   * [Pour iOS](develop/build/pour-ios.md)
   * [Pour Android](develop/build/pour-android.md)
   * [Avec EAS](develop/build/avec-eas.md)
+
 ## Légal
+
 * [📖 Politique de confidentialité](legal/privacy.md)
 * [☑️ Conditions générales d'utilisation](legal/terms.md)
