@@ -5,7 +5,7 @@ coverY: 0
 
 # 📊 Moyennes générales
 
-Papillon récupère automatiquement votre moyenne générale depuis votre service scolaire si celui-ci le fournit. Mais dans le cas ou votre moyenne est indisponible, Papillon va venir automatiquement la calculer.
+Papillon récupère automatiquement votre moyenne générale depuis votre service scolaire si celui-ci le fournit. Mais dans le cas où votre moyenne est indisponible, Papillon va venir automatiquement la calculer.
 
 {% hint style="warning" %}
 Le calcul automatique des moyennes **n'est pas une information exacte**, mais une estimation qui essaye de s'en rapprocher un maximum.
