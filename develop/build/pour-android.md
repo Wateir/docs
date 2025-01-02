@@ -1,10 +1,29 @@
 # Pour Android
 Dans un terminal de commande qui est dans le dossier GitHub Papillon, exécutez ces lignes :
-```Shell
-npm i
-npx expo $prebuild -p android --clean # (--clean optionnel)
+
+{% tabs %} {% tab title="Release" %}
+
+git clone git@github.com:PapillonApp/Papillon.git
+cd Papillon
+npm install
+npx expo prebuild -p android --clean # (--clean optionnel)
 cd .\android\
-./gradlew ":app:assembleRelease" # Pour une release
-./gradlew ":app:assembleDebug" # Pour une app de test
-cd app/build/outputs/apk/release # L'APK est disponible ici
+./gradlew ":app:assembleRelease"
+
+{% endtab %}
+
+{% tab title="test" %}
+git clone git@github.com:PapillonApp/Papillon.git
+cd Papillon
+npm install
+npx expo prebuild -p android --clean # (--clean optionnel)
+cd .\android\
+./gradlew ":app:assembleDebug"
+
+{% endtab %} {% endtabs %}
+
+L'APK est disponible ici
+
+```Shell
+cd app/build/outputs/apk/release 
 ```
