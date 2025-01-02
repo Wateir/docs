@@ -4,7 +4,21 @@
 Pour compiler Papillon pour iOS, vous devez être sous MacOS et posséder XCode.
 {% endhint %}
 
-1. Dans la racine du projet, exécuter `pnpm prebuild`
+1.  \{% tabs %\} \{% tab title="npm" %\}
+
+    ```
+    npm run prebuild
+    ```
+
+    \{% endtab %\}
+
+    \{% tab title="pnpm" %\}
+
+    ```
+    pnpm prebuild
+    ```
+
+    \{% endtab %\} \{% endtabs %\}
 2. Ouvrir `Papillon.xcworkspace` avec xCode (**TRÈS IMPORTANT**)
 3. Si vous n'avez pas de compte payant Apple Developer: changer les teams pour le signing et enlever les "Associated Domains"
 4. Sélectionner `Papillon (release)` au niveau des schemes et votre target (physique ou simulateur)
