@@ -28,4 +28,4 @@ pnpm start
 {% endtab %}
 {% endtabs %}
 
-2. Sanner le QR Code qui s'affiche à l'écran qui vous redigera vers l'application Expo Go qui chargera ensuite l'application.
+2. Scanner le QR Code qui s'affiche à l'écran qui vous redigera vers l'application Expo Go qui chargera ensuite l'application.
