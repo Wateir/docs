@@ -110,7 +110,7 @@ Le client mobile **Papillon** est un logiciel **open source**, **gratuit**, **li
 
 La sécurité et la transparence dans le traitement des données des utilisateurs sont d'une importance primordiale pour nous. Nous nous engageons fermement à adopter des mesures de sécurité robustes pour protéger les données contre les accès non autorisés, les modifications, les divulgations ou les destructions inappropriées. De plus, nous nous assurons de communiquer de manière transparente sur les pratiques de collecte, d'utilisation et de partage des données, permettant ainsi à nos utilisateurs de comprendre clairement comment leurs informations sont gérées.
 
-### 3.2. - Récupération des données et services open-source
+### 3.2. - Récupération des données et services open source
 
 L'approche open source de **Papillon** est au cœur de notre stratégie de sécurisation des données. En rendant notre code accessible à tous, nous permettons à une communauté mondiale de contributeurs de le vérifier, de l'améliorer et d'identifier d'éventuelles failles de sécurité. Cette collaboration continue garantit que l'application ne se contente pas de respecter les normes actuelles de sécurité, mais qu'elle est également constamment mise à jour grâce aux contributions régulières de la communauté. Cette démarche participative assure une transparence totale et contribue à renforcer la confiance de nos utilisateurs dans la protection de leurs données.
 
