@@ -1,3 +1,7 @@
+---
+icon: android
+---
+
 # Pour Android
 Dans un terminal de commande qui est dans le dossier GitHub Papillon, exécutez ces lignes :
 
