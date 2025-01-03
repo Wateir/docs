@@ -1,3 +1,7 @@
+---
+icon: apple
+---
+
 # Pour iOS
 
 {% hint style="danger" %}
