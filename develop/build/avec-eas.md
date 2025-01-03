@@ -1,2 +1,5 @@
-# Avec EAS
+---
+icon: cloud
+---
 
+# Avec EAS
