@@ -1,3 +1,10 @@
+---
+icon: laptop
+description: >-
+  Papillon est écrit en TypeScript avec React Native et Expo. Nous utilisons
+  GitHub comme hébergeur du code de l'application.
+---
+
 # Préparer l'environnement de développement
 
 ### Prérequis
