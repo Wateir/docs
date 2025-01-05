@@ -1,3 +1,10 @@
+---
+icon: qrcode
+description: >-
+  Expo Go permet de tester le bon fonctionnement de l’app avec vos modifications
+  avant de le compiler.
+---
+
 # Tester avec Expo Go
 
 {% hint style="warning" %}
