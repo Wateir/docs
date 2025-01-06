@@ -31,3 +31,20 @@ Venez sur le [Discord](https://discord.gg/wVKWBRTbfh) nous partager votre probl�
 Pour considérer cela comme problématique, il faut une différence **notable** avec votre moyenne réelle, d'au delà de 0.30 points environ.
 {% endhint %}
 
+## Moyennes théoriques
+
+{% hint style="info" %} 
+Les moyennes théoriques ne sont que purement informatives. Elles sont calculées par Papillion et affichées uniquement chez cette dernière. 
+{% endhint %}
+### Qu'est-ce qu'une Moyenne théorique ?
+#### Moyenne théorique max
+
+La moyenne théorique maximale est la moyenne des meilleures moyennes de chaque matière. Elle est théorique car il n'existe peut-être pas un élève qui possède la meilleure moyenne dans chaque matière.
+
+#### Moyenne théorique min
+
+La moyenne théorique minimale est la moyenne des pires moyennes de chaque matière. Elle est théorique car il n'existe peut-être pas un élève qui possède la pire moyenne dans chaque matière.
+
+{% hint style="warning" %} 
+Les moyennes théoriques sont **théoriques**, et ne sont que des fonctionnalités de Papillion. Elles sont donc différentes des meilleures moyennes que les services scolaires communiquent. 
+{% endhint %}
