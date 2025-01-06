@@ -7,8 +7,7 @@ description: >-
 # 📖 Politique de confidentialité
 
 {% hint style="success" %}
-Ce service peut être amené à collecter certaines données personnelles de ses utilisateurs pour le fonctionnement du service.\
-**Lors de l'utilisation de l'application, aucune donnée n'est conservée ni ne transite sur des serveurs externes au terminal sur lequel l'application est installée.**
+Papillon ne conserve ni n'envoie aucune donnée personnelle ou scolaire sur des serveurs externes à l'établissement de l'élève.
 {% endhint %}
 
 ## 1. - Services concernés <a href="#id-1-services-concernes" id="id-1-services-concernes"></a>
@@ -34,7 +33,7 @@ Ces services peuvent recueillir des données personnelles spécifiques à leurs 
 Les données personnelles peuvent être collectées via différentes méthodes et pour diverses raisons au sein de notre service, comme illustré ci-dessous:
 
 {% tabs %}
-{% tab title="Sur l'application mobile" %}
+{% tab title="Sur l" %}
 *   **Vos données d’identification à votre service scolaire**
 
     > Identifiants de connexion au service scolaire, URL de l'établissement et académie correspondante _(le cas échéant)_
@@ -94,13 +93,14 @@ Aucune personne ou logiciel automatisé n’utilise, ne traite ou ne collecte vo
 La suppression de l'application ou la déconnexion entraîne immédiatement la suppression de l'intégralité des données stockées sur votre appareil. Nous ne conservons aucune copie de vos données après la suppression de l'application, assurant ainsi une maîtrise totale de vos informations personnelles.
 
 ### 2.5 - RGPD
+
 Conformément au Règlement Général sur la Protection des Données, et notamment la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles, vous disposez d'un droit de rectification, de suppression et de consultation concernant vos données personnelles collectées lors de votre visite sur le site https://papillon.bzh. Pour toute demande, adressez un courriel au responsable de traitement via l'adresse : [contact@vincelinise.com](mailto:contact@vincelinise.com).
 
 ### 2.6 - Comparaison avec l'application PRONOTE officielle
+
 Voici un schéma comparant le fonctionnement de Papillon et de l'application PRONOTE officielle, on voit ici que son fonctionnement est proche de celui de la version officielle ; en effet, Papillon ne sert que d'intermédiaire entre l'utilisateur et les serveurs officiels de PRONOTE, ne faisant que transmettre des données entre les deux, sans intermédiaire.
 
 ![schema comparatif](comparaison_pronote.png)
-
 
 ## 3. - Client mobile Papillon <a href="#id-3-client-mobile-papillon" id="id-3-client-mobile-papillon"></a>
 
@@ -131,3 +131,8 @@ Papillon se réserve le droit de mettre à jour cette politique de confidentiali
 ## 5. - En cas de problème <a href="#id-5-en-cas-de-probleme" id="id-5-en-cas-de-probleme"></a>
 
 En cas de problème avec l'application ou son traitement des données, merci de nous contacter à l'adresse suivante : [contact@vincelinise.com](mailto:contact@vincelinise.com).
+
+{% hint style="warning" %}
+Pour un problème **concernant l'application** (ex. connexion impossible, bugs, crashs etc..), référez vous au support : [support@papillon.bzh](mailto:support@papillon.bzh) ou contactez-nous sur les réseaux sociaux du projet.
+{% endhint %}
+
