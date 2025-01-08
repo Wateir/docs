@@ -13,7 +13,7 @@ Dans la racine du projet, éxecutez l'une de ces commandes :
 {% tabs %}
 {% tab title="npm" %}
 ```sh
-npm prebuild
+npm run prebuild
 ```
 {% endtab %}
 
