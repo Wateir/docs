@@ -17,7 +17,7 @@ Ce script effectue un clonage du dépôt git de Papillon auquel vous ne pouvez p
 {% tabs %}
 {% tab title="npm" %}
 ```sh
-git clone git@github.com:PapillonApp/Papillon.git
+git clone https://github.com/PapillonApp/Papillon.git
 cd Papillon
 npm install
 ```
@@ -25,7 +25,7 @@ npm install
 
 {% tab title="pnpm" %}
 ```sh
-git clone git@github.com:PapillonApp/Papillon.git
+git clone https://github.com/PapillonApp/Papillon.git
 cd Papillon
 pnpm install
 ```
