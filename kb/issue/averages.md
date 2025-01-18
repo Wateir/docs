@@ -34,7 +34,7 @@ Pour considérer cela comme problématique, il faut une différence **notable** 
 ## Moyennes théoriques
 
 {% hint style="info" %} 
-Les moyennes théoriques ne sont que purement informatives. Elles sont calculées par Papillion et affichées uniquement chez cette dernière. 
+Les moyennes théoriques sont calculées à titre indicatif par Papillon.
 {% endhint %}
 ### Qu'est-ce qu'une Moyenne théorique ?
 #### Moyenne théorique max
